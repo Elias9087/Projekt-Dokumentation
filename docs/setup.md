@@ -1,1 +1,5 @@
-Ordner docs und setup.md erstellt
+# Projekt einrichten
+1. Klone das Repository:
+   ```bash
+   git clone https://github.com/Elias9087/projekt-dokumentation.git
+2. npm install
