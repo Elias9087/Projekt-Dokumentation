@@ -1,4 +1,4 @@
 # Willkommen zu meiner Projekt-Dokumentation
 
-In diesem Repository dokumentiere ich meine ersten Schritte mit GitHub Pages.
+Diese Seite beschreibt das Projekt Projekt-Dokumentation. Hier findest du alle relevanten Informationen.
 
